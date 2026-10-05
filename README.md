@@ -56,6 +56,7 @@ Telegram-бот для структурирования и выдачи инфо
     <td align="center"><img src="screenshots/bot-profile.png" width="250"></td>
   </tr>
 </table>
+
 ## Использованные технологии
 
 - Telegram Bot API
