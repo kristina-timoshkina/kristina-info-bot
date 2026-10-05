@@ -44,14 +44,18 @@ Telegram-бот для структурирования и выдачи инфо
   </tr>
 </table>
 
-### Административный режим
+### Административный интерфейс и профиль бота
 
-<img src="screenshots/bot-admin-menu.png" width="280">
-
-### Профиль бота
-
-<img src="screenshots/bot-profile.png" width="280">
-
+<table>
+  <tr>
+    <td align="center"><b>Административный режим</b></td>
+    <td align="center"><b>Профиль бота</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/bot-admin-menu.png" width="250"></td>
+    <td align="center"><img src="screenshots/bot-profile.png" width="250"></td>
+  </tr>
+</table>
 ## Использованные технологии
 
 - Telegram Bot API
