@@ -21,21 +21,6 @@ Telegram-бот для структурирования и выдачи инфо
 
 В боте реализованы два режима работы: пользовательский — для получения и навигации по материалам, и административный — для управления содержимым проекта.
 
-## Скриншоты
-
-### Пользовательский режим
-
-<table>
-  <tr>
-    <td align="center"><b>Главное меню</b></td>
-    <td align="center"><b>Пример информационного раздела</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/bot-main-menu.jpeg" width="250"></td>
-<td align="center"><img src="screenshots/bot-checklist.jpeg" width="250"></td>
-  </tr>
-</table>
-
 ### Административный режим
 
 <img src="screenshots/bot-admin-menu.png" width="280">
@@ -51,6 +36,21 @@ Telegram-бот для структурирования и выдачи инфо
 ### Административный режим
 
 Администратор может управлять материалами, добавлять или редактировать информацию, проверять структуру разделов и поддерживать актуальность содержимого.
+
+## Скриншоты
+
+### Пользовательский режим
+
+<table>
+  <tr>
+    <td align="center"><b>Главное меню</b></td>
+    <td align="center"><b>Пример информационного раздела</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/bot-main-menu.jpeg" width="250"></td>
+<td align="center"><img src="screenshots/bot-checklist.jpeg" width="250"></td>
+  </tr>
+</table>
 
 ## Использованные технологии
 
