@@ -31,8 +31,8 @@ Telegram-бот для структурирования и выдачи инфо
     <td align="center"><b>Пример информационного раздела</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/bot-main-menu.jpg" width="250"></td>
-    <td align="center"><img src="screenshots/bot-checklist.jpg" width="250"></td>
+    <td align="center"><img src="screenshots/bot-main-menu.jpeg" width="250"></td>
+<td align="center"><img src="screenshots/bot-checklist.jpeg" width="250"></td>
   </tr>
 </table>
 
